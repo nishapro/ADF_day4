@@ -1,0 +1,60 @@
+2021-09-11 20:48:51 INFO-iterations has been created for more user
+2021-09-11 20:48:51 INFO-salary is checked
+2021-09-11 20:48:51 INFO-salary is checked
+2021-09-11 20:48:51 INFO-eligibility has been checked
+2021-09-11 20:51:15 INFO-iterations has been created for more user
+2021-09-11 20:51:15 INFO-salary is checked
+2021-09-11 20:51:15 INFO-salary is checked
+2021-09-11 20:51:15 INFO-eligibility has been checked
+2021-09-11 20:52:21 INFO-iterations has been created for more user
+2021-09-11 20:52:21 INFO-age has been checked
+2021-09-11 20:52:21 INFO-salary is checked
+2021-09-11 20:52:21 INFO-age has been checked
+2021-09-11 20:52:21 INFO-salary is checked
+2021-09-11 20:52:21 INFO-age has been checked
+2021-09-11 20:52:21 INFO-eligibility has been checked
+2021-09-11 20:53:33 INFO-iterations has been created for more user
+2021-09-11 20:53:33 INFO-age has been checked
+2021-09-11 20:53:33 INFO-state is checked
+2021-09-11 20:53:33 INFO-age has been checked
+2021-09-11 20:53:33 INFO-state is checked
+2021-09-11 20:53:33 INFO-age has been checked
+2021-09-11 20:53:33 INFO-state is checked
+2021-09-11 20:53:33 INFO-salary is checked
+2021-09-11 20:53:33 INFO-eligibility has been checked
+2021-09-11 21:21:41 INFO-iterations has been created for more user
+2021-09-11 21:21:41 INFO-age has been checked
+2021-09-11 21:21:41 INFO-state is checked
+2021-09-11 21:21:41 INFO-age has been checked
+2021-09-11 21:21:41 INFO-state is checked
+2021-09-11 21:21:41 INFO-age has been checked
+2021-09-11 21:21:41 INFO-state is checked
+2021-09-11 21:21:41 INFO-salary is checked
+2021-09-11 21:21:41 INFO-eligibility has been checked
+2021-09-11 21:23:36 INFO-iterations has been created for more user
+2021-09-11 21:23:37 INFO-age has been checked
+2021-09-11 21:23:37 INFO-state is checked
+2021-09-11 21:23:37 INFO-age has been checked
+2021-09-11 21:23:37 INFO-state is checked
+2021-09-11 21:23:37 INFO-age has been checked
+2021-09-11 21:23:37 INFO-state is checked
+2021-09-11 21:23:37 INFO-salary is checked
+2021-09-11 21:23:37 INFO-eligibility has been checked
+2021-09-11 21:31:02 INFO-iterations has been created for more user
+2021-09-11 21:31:02 INFO-age has been checked
+2021-09-11 21:31:02 INFO-state is checked
+2021-09-11 21:31:02 INFO-age has been checked
+2021-09-11 21:31:02 INFO-state is checked
+2021-09-11 21:31:02 INFO-age has been checked
+2021-09-11 21:31:02 INFO-state is checked
+2021-09-11 21:31:02 INFO-salary is checked
+2021-09-11 21:31:02 INFO-eligibility has been checked
+2021-09-11 21:31:56 INFO-iterations has been created for more user
+2021-09-11 21:31:56 INFO-age has been checked
+2021-09-11 21:31:56 INFO-state is checked
+2021-09-11 21:31:56 INFO-age has been checked
+2021-09-11 21:31:56 INFO-state is checked
+2021-09-11 21:31:56 INFO-age has been checked
+2021-09-11 21:31:56 INFO-state is checked
+2021-09-11 21:31:56 INFO-salary is checked
+2021-09-11 21:31:56 INFO-eligibility has been checked
